@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Vanilla Panna Cotta](../recipe/jan/vanilla-panna-cotta.md)
+- March: [Asparagus](../recipe/march/asparagus.md)
