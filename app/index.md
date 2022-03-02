@@ -14,9 +14,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
 
-### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
+### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine 
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
+[Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus.md)
 
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 

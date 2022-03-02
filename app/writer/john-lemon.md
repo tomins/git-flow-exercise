@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Homemade Sausages](../recipe/jan/homemade-sausages.md)
+- Feburary: [Asparagus with Cranberries and Pine Nuts](..recipe/feb/asparagus.md)
